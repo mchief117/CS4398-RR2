@@ -1,2 +1,2 @@
 # CS4398-RR2
-This is Maria updating from Git desktop!
+Unity based project for software engineering
